@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Falso AEMET</title>
+</head>
+<body>
+    <form method="get" action="http://www.aemet.es/es/buscador"><br>
+     Selecciona la ciudad<br>
+        <input type="radio" id="madrid" name="str" value="Madrid">
+         <label for="madrid">MADRID</label><br>
+        <input type="radio" id="barcelona" name="str" value="barcelona">
+         <label for="barcelona">BARCELONA</label><br>
+        <input type="radio" id="sevilla" name="str" value="Sevilla">
+         <label for="sevilla">SEVILLA</label><br>
+        <input type="submit">
+      
+    </form>
+</body>
+</html>

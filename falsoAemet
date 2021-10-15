@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Falso AEMET</title>
+</head>
+<body>
+    <form method="get" action="http://www.aemet.es/es/buscador"><br>
+    ¿Que ciudad quiere buscar?
+        <input type="text" name="str">
+        <input type="submit" value="ENVIAR"> 
+    </form>
+</body>
+</html>
